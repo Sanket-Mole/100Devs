@@ -1,0 +1,20 @@
+
+#first{
+    text-align: center;
+    color: red;
+}
+
+div{
+    text-align: center;
+    box-decoration-break: slice;
+}
+
+#sec{
+    text-align: center;
+    color: blueviolet;
+}
+
+#here,#score{
+    text-align: center;
+    color : saddlebrown;
+}
